@@ -6,6 +6,7 @@ public class CCC {
 		// TODO 自動生成されたメソッド・スタブ
 		//aaa
 		//ccc
+		//ddd
 	}
 
 }
